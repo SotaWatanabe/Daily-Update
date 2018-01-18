@@ -1,1 +1,23 @@
-a
+
+.top-image {
+	width:		100%;
+	margin:		0;
+	padding:	0;
+	position:	relative;
+}
+
+.top-image img {
+	width:		100%;
+}
+
+.text {
+	width:		100%;
+	font-size:	150%;
+	text-align:	center;
+	bottom:		4px;
+	margin:		0;
+	padding:	0;
+	color:		#fff;
+	background:	rgba(0,0,0,0.4); /* 帯の透明度 */
+	position:	absolute; /* 絶対位置指定 */
+}
