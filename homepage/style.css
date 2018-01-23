@@ -48,3 +48,7 @@
 	margin:0;
 	position:absolute; /* 絶対位置指定 */
 }
+
+.travel{
+	float:left;
+}
