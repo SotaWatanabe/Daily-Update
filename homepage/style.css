@@ -60,12 +60,20 @@
 
 .title-sentence{
 	position: absolute;
-	top:0;
-	left:0;
+	top:22%;
+	left:10%;
+	font-size: 5em;
+}
+
+.main-sentence{
+	position: absolute;
+	top:22%;
+	left:10%;
 }
 
 .backpicture img{
 	width: 100%;
+	filter:brightness(60%);
 }
 
 #text1 {
