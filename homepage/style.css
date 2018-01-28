@@ -61,19 +61,27 @@
 .title-sentence{
 	position: absolute;
 	top:22%;
-	left:10%;
+	left:5%;
 	font-size: 5em;
 }
 
 .main-sentence{
 	position: absolute;
-	top:22%;
-	left:10%;
+	word-wrap: break-word;
+	top:40%;
+	left:5%;
+}
+
+.last-sentence{
+	position: absolute;
+	top:60%;
+	left:5%;
 }
 
 .backpicture img{
+	margin-top: 60px;
 	width: 100%;
-	filter:brightness(60%);
+	filter:brightness(40%);
 }
 
 #text1 {
@@ -102,6 +110,8 @@
 	margin:0;
 	position:absolute; /* 絶対位置指定 */
 }
+
+
 
 #india{
 	transform:			scale( 1, -1);
