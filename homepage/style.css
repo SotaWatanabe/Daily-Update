@@ -51,6 +51,11 @@
 	padding-left: 40px;
 }
 
+.travel:hover{
+	filter:alpha(opacity=80);
+	opacity:0.8;
+}
+
 .city{
 	float:left;
 	margin-right: 30px;
